@@ -1,1 +1,5 @@
-git add .gitignore main.c
+.idea/
+cmake-build-debug/
+cmake-build-release/
+CMakeLists.txt
+
